@@ -72658,5 +72658,12 @@
     "author": "Bartłomiej Komendarczuk",
     "description": "Renders .html files and htmlrender code blocks with full CSS and JavaScript support in a secure sandboxed iframe. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "belluu/BetterHTMLReaderObsidian"
+  },
+  {
+    "id": "deepseek-voice-notes",
+    "name": "DeepSeek Voice Notes",
+    "author": "raf-159357",
+    "description": "Speak one sentence and let DeepSeek append, rewrite, or create notes in your vault. Bring your own API key; works on iOS.",
+    "repo": "raf-159357/obsidian-deepseek-voice"
   }
 ]
